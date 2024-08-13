@@ -4,6 +4,7 @@ DEP-Former: Multimodal Depression Recognition Based on Facial Expressions and Au
 # Run
 Open the DEP-Former folder and run 'python train.py'. </br>
 Required environment: Python 3.8 or higher. </br>
+For technical issues, please contact: yejiayu97@outlook.com. </br>
 
 # Data
 This is the official data link of DEP-Former. </br>
