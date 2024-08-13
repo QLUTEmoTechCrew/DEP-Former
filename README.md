@@ -6,6 +6,6 @@ Open the DEP-Former folder and run 'python train.py'. </br>
 Required environment: Python 3.8 or higher. </br>
 
 # Data
-This is the official data link of DEP-Former.
-https://pan.baidu.com/s/1qMTpcw5na1gOfSq0ysujHg 
-For password, please contact: wangqx@qlu.edu.cn.
+This is the official data link of DEP-Former. </br>
+https://pan.baidu.com/s/1qMTpcw5na1gOfSq0ysujHg  </br>
+For password, please contact: wangqx@qlu.edu.cn. </br>
