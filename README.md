@@ -12,3 +12,6 @@ For password, please contact: wangqx@qlu.edu.cn. </br>
 
 # Model
 ![Example Image](https://github.com/QLUTEmoTechCrew/DEP-Former/blob/main/P2_00.png)
+
+# Abbreviation
+![Example Image](https://github.com/QLUTEmoTechCrew/DEP-Former/blob/main/Abbreviation.png)
