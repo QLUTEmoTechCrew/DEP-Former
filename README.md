@@ -10,4 +10,4 @@ This is the official data link of DEP-Former. </br>
 https://pan.baidu.com/s/1qMTpcw5na1gOfSq0ysujHg  </br>
 For password, please contact: wangqx@qlu.edu.cn. </br>
 
-![Example Image]([https://example.com/image.png](https://github.com/QLUTEmoTechCrew/DEP-Former/blob/main/P2.pdf))
+![Example Image]([https://example.com/image.png](https://github.com/QLUTEmoTechCrew/DEP-Former/P2.pdf))
