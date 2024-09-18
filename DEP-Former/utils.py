@@ -197,7 +197,7 @@ def evaluate(model, data_loader, device, epoch):
     logger.info(report)
     print(report)
     print("AUC:{:.4f}".format(metrics.roc_auc_score(all_label, all_preds)))
-    print("F1-Score:{:.4f}".format(f1_score(all_label, all_preds, average='macro')))
+    print("F1-Score:{:.4f}".format(f1_score(all_label, all_preds)))
     return accu_loss.item() / (step + 1), accu_num.item() / sample_num
 
 
